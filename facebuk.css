@@ -1,0 +1,25 @@
+#fb_pic{position:fixed;top:5px;left:170px;width:200px;height:41px;}
+#blue-img{background-image:url(https://i.imgur.com/6mQqcYU.png);width:100%;height:60px;position:fixed;top:-25px;left:0px; background-attachment: fixed;}
+body{background-image:url(https://i.imgur.com/If2UJYZ.png);width:1920px;height:100%;background-repeat:repeat-x;background-attachment: fixed;}
+#email{color:white;position:fixed;top:-15px;left:670px;font-size:15px}#email-input{border-style:solid;border-radius:5px;border-color:rgb(0,128,195);color:black;position:fixed;top:23px;left:670px;font-size:15px;}#pass{color:white;position:fixed;top:-15px;left:870px;font-size:15px}#pass-input{border-style:solid;border-radius:5px;border-color:rgb(0,128,195);color:black;position:fixed;top:23px;left:870px;font-size:15px}
+#log-in{border-style:solid;border-radius:5px;border-color:rgb(0,118,255);color:black;background-color:rgb(0,118,255);position:fixed;top:23px;left:1050px;font-size:15px}
+#fbdes{font-family:calibri;color:rgb(50,50,120);position:fixed;top:55px;left:150px;font-size:20px}
+#people{position:fixed;top:150px;left:120px;width:500px;height:200px; } 
+#create{font-family:calibri;color:rgb(55,55,55);position:fixed;top:30px;left:750px;font-size:40px }
+#create-2{font-family:calibri;color:rgb(55,55,55);position:fixed;top:100px;left:750px;font-size:15px }  
+#frst-nam{border-style:solid;border-radius:3px;border-width:2px;font-family:calibri;color:rgb(55,55,55);position:fixed;top:140px;left:750px;font-size:20px;}
+#last-nam{border-style:solid;border-radius:3px;border-width:2px;font-family:calibri;color:rgb(55,55,55);position:fixed;top:140px;left:1010px;font-size:20px;}
+#mob-num{width:492px;border-style:solid;border-radius:3px;border-width:2px;font-family:calibri;color:rgb(55,55,55);position:fixed;top:200px;left:750px;font-size:20px;}
+#pass-create{width:492px;border-style:solid;border-radius:3px;border-width:2px;font-family:calibri;color:rgb(55,55,55);position:fixed;top:260px;left:750px;font-size:20px;}
+#brth1{width:50px;border-style:solid;border-radius:3px;border-width:2px;font-family:calibri;color:rgb(55,55,55);position:fixed;top:340px;left:750px;font-size:20px;}
+#month{width:50px;border-style:solid;border-radius:3px;border-width:2px;font-family:calibri;color:rgb(55,55,55);position:fixed;top:340px;left:804px;font-size:20px;}
+#year{width:80px;border-style:solid;border-radius:3px;border-width:2px;font-family:calibri;color:rgb(55,55,55);position:fixed;top:340px;left:858px;font-size:20px;}
+#why{font-family:calibri;color:rgb(55,55,55);position:fixed;top:322px;left:950px;font-size:15px;}
+#gender-m{font-family:calibri;color:rgb(55,55,55);position:fixed;top:390px;left:750px;size:30px;}
+#gender-f{font-family:calibri;color:rgb(55,55,55);position:fixed;top:390px;left:810px;size:30px;}
+#gender-o{font-family:calibri;color:rgb(55,55,55);position:fixed;top:390px;left:884px;size:30px;}
+#male{font-family:calibri;color:rgb(55,55,55);position:fixed;top:372px;left:770px;size:30px;}
+#female{font-family:calibri;color:rgb(55,55,55);position:fixed;top:372px;left:830px;size:30px;}
+#other{font-family:calibri;color:rgb(55,55,55);position:fixed;top:372px;left:904px;size:30px;}
+#text-end{font-family:calibri;color:rgb(55,55,55);position:fixed;top:400px;left:750px;size:15px;}
+#cre-acc{border-style:none;background-repeat:no-repeat;background-image:url("https://i.imgur.com/oaYs6Zr.png");width:500px;height:60px;background-color:rgb(95,155,76,0);font-family:calibri;color:rgb(55,55,55);position:fixed;top:470px;left:740px;}
